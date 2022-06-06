@@ -1,16 +1,16 @@
 # plant_app
 
-A new Flutter project.
+Plants app UI using Flutter
 
-## Getting Started
+### Landing Page
 
-This project is a starting point for a Flutter application.
+![LP1](https://github.com/TaneemKazi/plant_app/blob/main/ScreenShots/1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+### 
+![LP2](https://github.com/TaneemKazi/plant_app/blob/main/ScreenShots/2.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Detail Abuot Plants
+![Dp1](https://github.com/TaneemKazi/plant_app/blob/main/ScreenShots/3.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 
+![Dp2](https://github.com/TaneemKazi/plant_app/blob/main/ScreenShots/4.jpg)
