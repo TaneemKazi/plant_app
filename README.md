@@ -1,4 +1,4 @@
-## Plants app UI using Flutter
+## Plants app using Flutter
 
 ### Landing Pages
 
